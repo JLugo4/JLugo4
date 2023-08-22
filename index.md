@@ -24,6 +24,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 ### Education
 #### Delaware Technical Community College | Georgetown, DE June 2020 - Present
 #### Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree)
+* Admitted into and [graduated from](zcw-certificate-of-completion.pdf) Zip Code Wilmington from March to May of 2023.
 * Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative
   Reasoning and Statistics, Accounting, Business, and Economics
 * Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
