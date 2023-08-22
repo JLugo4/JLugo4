@@ -8,10 +8,10 @@
 <table>
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true&theme=dracula">         
+         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true">         
       </td>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact&theme=dracula&hide=roff,tsql,c">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact">
       </td>
    </tr>
 </table>
