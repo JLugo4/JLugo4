@@ -1,3 +1,3 @@
 # JLugo4
 
-Click [here](index.md) for portfolio.
+Click [here](https://jlugo4.github.io/JLugo4/) for portfolio.
