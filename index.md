@@ -22,9 +22,14 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
 
 ### Education
-* Delaware State University (2011 - 2015)
-* [Bachelor of Science (BS)](./bachelors-degree.pdf)
-* Computer Science Major, Mathematics Minor
+#### Delaware Technical Community College | Georgetown, DE June 2020 - Present
+#### Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree)
+* Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative
+  Reasoning and Statistics, Accounting, Business, and Economics
+* Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
+  York College of Pennsylvania | York, PA Aug 2015 – May 2017
+  Progress towards B.A., History (Completed 48 of 120 credits towards degree)
+* Relevant Coursework: Introduction to IT, Contemporary Mathematics
 
 
 ### Contact Information
