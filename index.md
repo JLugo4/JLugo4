@@ -39,7 +39,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 * **LinkedIn:** [`{{ linkedin }}`]({{ linkedin }})
 
 ### Personal Projects
-* none
+* [First personal deployment] (https://github.com/JLugo4/demoCrud)
 
 ### Exercise and Assignment Completion
 * [`https://github.com/curriculeon`](https://github.com/curriculeon)
