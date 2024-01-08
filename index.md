@@ -82,3 +82,6 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 ### York College of Pennsylvania | York, PA (Aug 2015 – May 2017)
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
+
+### JP Morgan Chase & Co.
+- Software Engineering Lite Job Simulation [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf]()
