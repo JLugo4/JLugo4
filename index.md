@@ -55,7 +55,7 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 
 ### U.S. Marine Corps Reserves | Wilmington, DE (Aug 2018 – Present)
 **Bulk Fuel Specialist**
-- U.S. Marine Corps Corporal (E-4) assigned to install, operate, maintain, and repair fuel handling units and equipment as well as test petroleum products to evaluate the quality used in military vehicles.
+- U.S. Marine Corps Sergeant (E-5) assigned to install, operate, maintain, and repair fuel handling units and equipment as well as test petroleum products to evaluate the quality used in military vehicles.
 - Awarded Meritorious Mast for excellent performance; serving as head of the security detail, conducted a comprehensive training session on defensive position preparation for all participating U.S. Marine Reservists while also assisting with the construction of fuel distribution systems leading up to dispensing sixty thousand gallons throughout the week.
 
 ### Bayline Construction | Georgetown, DE (May 2022 – Feb 2023)
@@ -84,4 +84,4 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
 
 ### JP Morgan Chase & Co.
-- Software Engineering Lite Job Simulation [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf]()
+- Software Engineering Lite Job Simulation [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf] ()
