@@ -52,6 +52,8 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
   Collaborated with three team members to develop an app for farmers, following a design plan created with the Unified Modeling Language (UML); employed Core Java and Test Driven Development (TDD) to build a farm system that utilized abstract classes and interfaces. [Stowells-Farmer-Froilan Link](#)
 - **Casino App:**
   Working in a team of four, collaborated to develop a casino app that hosted six games and featured multiple casino games; utilized Core Java and Agile Methodologies; personally developed the Rablon game and the deck of cards [Casino Link](#)
+- **Demo CRUD:**
+  Independently developed a CRUD application using Spring on the backend and jQuery on the frontend. Implemented Create, Read, Update, and Delete functionalities. Leveraged Spring Data JPA for database operations and jQuery for dynamic user interactions. [Demo CRUD](https://github.com/JLugo4/demoCrud)
 
 ### U.S. Marine Corps Reserves | Wilmington, DE (Aug 2018 – Present)
 **Bulk Fuel Specialist**
@@ -74,7 +76,7 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 
 ## EDUCATION
 
-### Delaware Technical Community College | Georgetown, DE (June 2020 - Present)
+### Delaware Technical Community College | Georgetown, DE (June 2020 - December 2022)
 **Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree)**
 - Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics.
 - Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
