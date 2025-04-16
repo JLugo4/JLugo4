@@ -46,7 +46,6 @@ Hardworking and dedicated Software Developer, with six years’ military service
 **Software Engineer**
 - Hands-on experience leveraging AWS services to automate workflows and optimize cloud operations
 - Contributed to agile development of robust, full-scale applications utilizing modern programming languages and frameworks
-- Designed and implemented scalable backend services and APIs with a focus on performance, maintainability, and cloud readiness.
 
 ### Zip Code Wilmington | Wilmington, DE (Feb 2023 – May 2023)
 **Software Developer in Training**
