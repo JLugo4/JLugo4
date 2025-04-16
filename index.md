@@ -27,7 +27,7 @@ _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com  
 LinkedIn: [/JarekLugo](https://www.linkedin.com/in/JarekLugo) • GitHub: [/JLugo4](https://github.com/JLugo4)
 
-Hard working and dedicated Software Developer, with over five years’ military service in the U.S. Marine Corps Reserve and significant progress towards an Associate of Applied Science in Accounting with coursework in Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics; detail-oriented, customer-focused, team player eager to apply technical skills in Java, SQL, and Spring Boot using innovative approaches to solving complex business problems.
+Hardworking and dedicated Software Developer, with six years’ military service in the U.S. Marine Corps Reserve and significant progress towards an Associate of Applied Science in Accounting with coursework in Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics; detail-oriented, customer-focused, team player eager to apply technical skills in Java, SQL, and Spring Boot using innovative approaches to solving complex business problems.
 
 ## TECHNICAL SKILLS
 - Java
@@ -42,6 +42,12 @@ Hard working and dedicated Software Developer, with over five years’ military 
 
 ## PROFESSIONAL EXPERIENCE
 
+### JPMorgan Chase & Co. | Wilmington, DE (Apr 2024 - Now)
+**Software Engineer**
+- Hands-on experience leveraging AWS services to automate workflows and optimize cloud operations
+- Contributed to agile development of robust, full-scale applications utilizing modern programming languages and frameworks
+- Designed and implemented scalable backend services and APIs with a focus on performance, maintainability, and cloud readiness.
+
 ### Zip Code Wilmington | Wilmington, DE (Feb 2023 – May 2023)
 **Software Developer in Training**
 
@@ -55,7 +61,7 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 - **Demo CRUD:**
   Independently developed a CRUD application using Spring on the backend and jQuery on the frontend. Implemented Create, Read, Update, and Delete functionalities. Leveraged Spring Data JPA for database operations and jQuery for dynamic user interactions. [Demo CRUD](https://github.com/JLugo4/demoCrud)
 
-### U.S. Marine Corps Reserves | Wilmington, DE (Aug 2018 – Present)
+### U.S. Marine Corps Reserves | Wilmington, DE (Aug 2018 – 2024)
 **Bulk Fuel Specialist**
 - U.S. Marine Corps Sergeant (E-5) assigned to install, operate, maintain, and repair fuel handling units and equipment as well as test petroleum products to evaluate the quality used in military vehicles.
 - Awarded Meritorious Mast for excellent performance; serving as head of the security detail, conducted a comprehensive training session on defensive position preparation for all participating U.S. Marine Reservists while also assisting with the construction of fuel distribution systems leading up to dispensing sixty thousand gallons throughout the week.
@@ -85,7 +91,7 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
 
-### JP Morgan Chase & Co.
+### JPMorgan Chase & Co.
 - Software Engineering Lite Job Simulation [Lite Job Simulation Certificate]()
 
 [Lite Job Simulation Certificate]: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf 
