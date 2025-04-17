@@ -67,8 +67,8 @@ Admitted into Zip Code Wilmington’s highly competitive software development pr
 
 ### Bayline Construction | Georgetown, DE (May 2022 – Feb 2023)
 **Groundsman**
-- Properly and safely climbed telephone transmission and distribution poles to perform maintenance which is a difficult and dangerous skill to learn and execute maintenance at 40-60 feet above ground; expertly prepared and maintained line trucks for transportation; proficient excavation to install poles and conduit for wire pulling.
-- During a project in Laurel, Delaware, completed 118 transmission and crossarm changes, along with 11 pole changes, for a total of 1.35 million.
+- Properly and safely climbed telephone transmission and distribution poles to perform maintenance which is a difficult and dangerous skill to learn and execute maintenance at 40-60 feet above ground; expertly prepared and maintained line trucks for transportation; proficient in excavation to install poles and conduit for wire pulling.
+- During a project in Laurel, Delaware, completed 118 transmission and crossarm changes, along with 11 pole changes, for a total of $1.35 million.
 
 ### Fish Window Cleaning | Milford, DE (Nov 2020 – Nov 2021)
 **Window Cleaner**
