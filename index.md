@@ -89,6 +89,7 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 **Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree) (June 2020 - December 2022)**
 - Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics.
 - Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
+
 ### York College of Pennsylvania | York, PA 
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree) (Aug 2015 – May 2017)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
