@@ -30,9 +30,7 @@
 
 _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
-
 # JAREK LUGO
-
 **Software Developer**
 Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com  
 LinkedIn: [/JarekLugo](https://www.linkedin.com/in/JarekLugo) • GitHub: [/JLugo4](https://github.com/JLugo4)
@@ -71,28 +69,23 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 
 ### U.S. Marine Corps Reserves | Wilmington, DE 
 **Bulk Fuel Specialist (Aug 2018 – 2024)**
-- U.S. Marine Corps Sergeant (E-5) assigned to install, operate, maintain, and repair fuel handling units and equipment as well as test petroleum products to evaluate the quality used in military vehicles.
-- Awarded Meritorious Mast for excellent performance; serving as head of the security detail, conducted a comprehensive training session on defensive position preparation for all participating U.S. Marine Reservists while also assisting with the construction of fuel distribution systems leading up to dispensing sixty thousand gallons throughout the week.
-
+- Managed fuel handling units, oversaw maintenance, and led training sessions.
+- Recognized for excellence and operational leadership, supporting delivery of 60,000 gallons of fuel.
 ### Bayline Construction | Georgetown, DE 
 **Groundsman (May 2022 – Feb 2023)**
 - Performed aerial maintenance on transmission poles and managed ground-level excavation.
 - Completed over 100+ equipment changes contributing to a $1.35M project.
-
 ### Fish Window Cleaning | Milford, DE 
 **Window Cleaner (Nov 2020 – Nov 2021)**
 - Delivered high-quality customer service and was awarded for outstanding commission performance.
-
 ### Fishers’ Popcorn | Rehoboth, DE 
 **Sales Associate(Popcorn Maker) (June 2019 – May 2022)**
 - Supported retail operations and received promotions due to consistent high performance.
-
 ## EDUCATION
 ### Delaware Technical Community College | Georgetown, DE 
 **Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree) (June 2020 - December 2022)**
 - Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics.
 - Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
-
 ### York College of Pennsylvania | York, PA 
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree) (Aug 2015 – May 2017)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
