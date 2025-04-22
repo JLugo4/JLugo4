@@ -28,7 +28,7 @@ Lincoln, DE • (302) 393-6683 • Jarek.Lugo96@gmail.com
 LinkedIn: [/JarekLugo](https://www.linkedin.com/in/JarekLugo) • GitHub: [/JLugo4](https://github.com/JLugo4)
 
 ## Professional Summary
-Versatile and dedicated Software Developer with a foundation in Java, Spring Boot, and SQL.
+Versatile and dedicated Software Developer with a foundation in Java, Spring Boot, and SQL. 
 Six years of military experience in the U.S. Marine Corps Reserve, complemented by
 immersive full-stack software training. Strong background in Agile development, Test-
 Driven Development (TDD), and cloud services. Eager to bring analytical thinking and team
@@ -41,12 +41,9 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 ## PROFESSIONAL EXPERIENCE
 ### JPMorgan Chase & Co. | Wilmington, DE
 **Software Engineer (Apr 2024 - Present)**
-- Developed full-scale web applications using Java, Spring Boot, and AWS services to
-  enhance system automation.
-- Participated in Agile ceremonies and collaborated on feature delivery using modern
-  development pipelines.
-- Ensured system reliability and performance by leveraging test-driven practices and CI/CD
-  tools.
+- Developed full-scale web applications using Java, Spring Boot, and AWS services to enhance system automation.
+- Participated in Agile ceremonies and collaborated on feature delivery using modern development pipelines.
+- Ensured system reliability and performance by leveraging test-driven practices and CI/CD tools.
 
 ### Zip Code Wilmington | Wilmington, DE
 **Software Developer in Training (Feb 2023 – May 2023)**
@@ -69,20 +66,18 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 
 ### Bayline Construction | Georgetown, DE 
 **Groundsman (May 2022 – Feb 2023)**
-- Properly and safely climbed telephone transmission and distribution poles to perform maintenance which is a difficult and dangerous skill to learn and execute maintenance at 40-60 feet above ground; expertly prepared and maintained line trucks for transportation; proficient in excavation to install poles and conduit for wire pulling.
-- During a project in Laurel, Delaware, completed 118 transmission and crossarm changes, along with 11 pole changes, for a total of $1.35 million.
+- Performed aerial maintenance on transmission poles and managed ground-level excavation.
+- Completed over 100+ equipment changes contributing to a $1.35M project.
 
 ### Fish Window Cleaning | Milford, DE 
 **Window Cleaner (Nov 2020 – Nov 2021)**
-- Washed windows manually with a high-powered washing system; managed worksites and kept projects on schedule; identified major repairs and maintenance needs; established rapport with clients and maintained excellent customer relationships.
-- Received the Silver Shark Award for achieving over $1000 in commissions within one week.
+- Delivered high-quality customer service and was awarded for outstanding commission performance.
 
 ### Fishers’ Popcorn | Rehoboth, DE 
 **Sales Associate(Popcorn Maker) (June 2019 – May 2022)**
-- Earned 2 raises within 3 months for consistently providing excellent customer service while operating one or more kettles, assisting co-workers with order fulfillment, and taking initiative to maintain the premise and equipment at the end of shifts.
+- Supported retail operations and received promotions due to consistent high performance.
 
 ## EDUCATION
-
 ### Delaware Technical Community College | Georgetown, DE 
 **Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree) (June 2020 - December 2022)**
 - Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics.
