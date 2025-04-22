@@ -71,21 +71,26 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 **Sergeant, Bulk Fuel Specialist (Aug 2018 – 2024)**
 - Managed fuel handling units, oversaw maintenance, and led training sessions.
 - Recognized for excellence and operational leadership, supporting delivery of 60,000 gallons of fuel.
+
 ### Bayline Construction | Georgetown, DE 
 **Groundsman (May 2022 – Feb 2023)**
 - Performed aerial maintenance on transmission poles and managed ground-level excavation.
 - Completed over 100+ equipment changes contributing to a $1.35M project.
+
 ### Fish Window Cleaning | Milford, DE 
 **Window Cleaner (Nov 2020 – Nov 2021)**
 - Delivered high-quality customer service and was awarded for outstanding commission performance.
+
 ### Fishers’ Popcorn | Rehoboth, DE 
 **Sales Associate(Popcorn Maker) (June 2019 – May 2022)**
 - Supported retail operations and received promotions due to consistent high performance.
 ## EDUCATION
+
 ### Delaware Technical Community College | Georgetown, DE 
 **Progress towards A.A.S., Accounting (Completed 36 of 62 credits towards degree) (June 2020 - December 2022)**
 - Relevant Coursework: Introduction to Computers and Applications, Mathematical Quantitative Reasoning and Statistics, Accounting, Business, and Economics.
 - Awards: Accounting I Course – Comprehensive Problem Excellence (2021)
+
 ### York College of Pennsylvania | York, PA 
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree) (Aug 2015 – May 2017)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
