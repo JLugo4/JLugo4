@@ -98,4 +98,5 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 
 ## Certifications
 - Software Engineering Lite Job Simulation [Lite Job Simulation Certificate]()
+
 [Lite Job Simulation Certificate]: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf 
