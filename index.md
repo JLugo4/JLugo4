@@ -84,6 +84,7 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 ### Fishers’ Popcorn | Rehoboth, DE 
 **Sales Associate(Popcorn Maker) (June 2019 – May 2022)**
 - Supported retail operations and received promotions due to consistent high performance.
+
 ## EDUCATION
 
 ### Delaware Technical Community College | Georgetown, DE 
