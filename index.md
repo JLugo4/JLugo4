@@ -68,7 +68,7 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
   Independently developed a CRUD application using Spring on the backend and jQuery on the frontend. Implemented Create, Read, Update, and Delete functionalities. Leveraged Spring Data JPA for database operations and jQuery for dynamic user interactions. [Demo CRUD](https://github.com/JLugo4/demoCrud)
 
 ### U.S. Marine Corps Reserves | Wilmington, DE 
-**Bulk Fuel Specialist (Aug 2018 – 2024)**
+**Sergeant, Bulk Fuel Specialist (Aug 2018 – 2024)**
 - Managed fuel handling units, oversaw maintenance, and led training sessions.
 - Recognized for excellence and operational leadership, supporting delivery of 60,000 gallons of fuel.
 ### Bayline Construction | Georgetown, DE 
@@ -92,5 +92,4 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 
 ### JPMorgan Chase & Co.
 - Software Engineering Lite Job Simulation [Lite Job Simulation Certificate]()
-
 [Lite Job Simulation Certificate]: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf 
