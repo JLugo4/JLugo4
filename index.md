@@ -96,6 +96,6 @@ Tools/Methodologies: GitHub, Agile, Scrum, Test-Driven Development (TDD), AWS
 **Progress towards B.A., History (Completed 48 of 120 credits towards degree) (Aug 2015 – May 2017)**
 - Relevant Coursework: Introduction to IT, Contemporary Mathematics
 
-### JPMorgan Chase & Co.
+## Certifications
 - Software Engineering Lite Job Simulation [Lite Job Simulation Certificate]()
 [Lite Job Simulation Certificate]: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/Wb4yEmHvZrC2qxiyX_JPMorgan%20Chase%20&%20Co._Kx9w55Yy3bk2Aeq6F_1702439374923_completion_certificate.pdf 
