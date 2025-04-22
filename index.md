@@ -5,18 +5,28 @@
     https://{{ username }}.github.io/resume
 {% endcapture %}
 
-<table>
-   <tr>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true">         
-      </td>
-      <td>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact">
-      </td>
-   </tr>
-</table>
+[//]: # (<table>)
 
-<link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />
+[//]: # (   <tr>)
+
+[//]: # (      <td>)
+
+[//]: # (         <img src="https://github-readme-stats.vercel.app/api?username={{ username }}&show_icons=true">         )
+
+[//]: # (      </td>)
+
+[//]: # (      <td>)
+
+[//]: # (         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ username }}&layout=compact">)
+
+[//]: # (      </td>)
+
+[//]: # (   </tr>)
+
+[//]: # (</table>)
+
+[//]: # ()
+[//]: # (<link rel="stylesheet" type="text/css" media="all" href="./assets/css/style.css" />)
 
 _Click [here](https://github.com/{{ username }}) to view my Github Profile_
 
